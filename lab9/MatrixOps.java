@@ -39,7 +39,7 @@ public class MatrixOps {
 
 	public static void main(String[] args) {
 		MatrixOps mops = new MatrixOps();
-		int userInput = 0;
+		int userInput = 1;
 
 		while (userInput != 6) {
 			String menuMessage = "Matrix Ops\n" + "1. For entering matrix A data \n"
