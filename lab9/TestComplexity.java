@@ -3,11 +3,11 @@ class Dummy{
 	private int number;
 
 	public int getNumber() {
-		return number;
+		return num;
 	}
 
 	public void setNumber(int number) {
-		this.number = number;
+		this.number = num;
 	}
 	
 }
